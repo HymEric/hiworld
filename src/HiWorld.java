@@ -5,5 +5,6 @@ public class HiWorld{
         System.out.println("Second test3 提交改动!");
         System.out.println("Second test3 提交改动2!");
         System.out.println("Second test3 提交改动update!");
+        System.out.println("Second test3 hub add!");
     }
 }
